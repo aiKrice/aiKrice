@@ -40,7 +40,7 @@
 
 ## 📣 Speaker
 - Cocoaheads Nov 2018: AR CloudAnchors with Google: Possibility and limitations
-- Cocoaheads Jan 2020: The crossNative methodology: [How to design and implement on iOS and Android with Native code in the same way] (https://fr.slideshare.net/ChristopherSaez2/is-it-possible-to-write-crossnative-apps-in-2020)
+- Cocoaheads Jan 2020: The crossNative methodology: [How to design and implement on iOS and Android with Native code in the same way](https://fr.slideshare.net/ChristopherSaez2/is-it-possible-to-write-crossnative-apps-in-2020)
 - Cocoaheads Nov 2023: How to share githooks written in Swift
 
 ## 🏆 Passionated awarded

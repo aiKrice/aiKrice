@@ -45,7 +45,7 @@
 
 ## 🏆 Passionated awarded
 - 🥇 First prize [SGConnectedHack by Societé Générale](https://www.societegenerale.com/en/news/all-news/successful-sg-connected-hack): MySGConnect available [here](https://github.com/aiKrice/Hackathon-MySGConnect)
-- 🥇 Gran Finalist [AppShop Factory by Ingenico](https://cdn.ingenico.com/binaries/content/assets/corporate-fr/communique-de-presse/2015/11/20151124-hackathon-pr-fr.pdf): Shopeaz
+- 🥇 Grand Finalist [AppShop Factory by Ingenico](https://cdn.ingenico.com/binaries/content/assets/corporate-fr/communique-de-presse/2015/11/20151124-hackathon-pr-fr.pdf): Shopeaz
 - 🥇 First prize [Code Avec La Poste](https://www.igen.fr/app-store/2016/04/le-service-timbre-et-les-lettres-saffranchissent-du-timbre-95550?page=2): LeServiceTimbré available [here](https://github.com/aiKrice/LeServiceTimbre)
 - 🥇 First prize [Hackathon ClubMed](https://www.igen.fr/ailleurs/2016/07/la-chasse-au-tresor-modernisee-avec-ibeacon-et-la-realite-augmentee-96449): QuestRun available [here](https://github.com/aiKrice/poc-ar)
 - 🥇 First prize [Predictive Factory by Peugeot SA](https://predictive-factory.bemyapp.com/): Wisdom source available [here](https://gitlab.com/chris-saez/precog/)

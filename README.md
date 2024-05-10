@@ -30,7 +30,7 @@
 </div>
 
 ## ✍️ Writer
-- Medium, 6 articles, 1k+ views -> https://medium.com/@SaezChristopher
+- My medium -> https://medium.com/@SaezChristopher
 - Featured article: [here](https://testableapple.com/newsletter/28/)
 - _What would happened if Swift would have been adopted by Google on Android_, [link here](https://www.linkedin.com/pulse/et-si-swift-avait-%25C3%25A9t%25C3%25A9-choisi-par-google-comme-nouveau-saez-/?trackingId=lpEMlsYvQ3See1LYPF6SbA%3D%3D)
 - _How to win an hackathon_, [link here](https://www.linkedin.com/pulse/le-hackathon-la-comp%25C3%25A9tition-par-excellence-des-ing%25C3%25A9nieurs-saez/?trackingId=lpEMlsYvQ3See1LYPF6SbA%3D%3D)

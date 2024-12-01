@@ -22,6 +22,7 @@
     <img src="bitrise-original.svg" title="Bitrise" alt="Bitrise" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp;
+    <img src="https://dbd6j53uzcole.cloudfront.net/assets/images/favicon/favicon96.5f660f6d0ec8b4d5522e.png" title="Bugsnag" alt="Bugsnag" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
@@ -35,6 +36,9 @@
 - _What would happened if Swift would have been adopted by Google on Android_, [link here](https://www.linkedin.com/pulse/et-si-swift-avait-%25C3%25A9t%25C3%25A9-choisi-par-google-comme-nouveau-saez-/?trackingId=lpEMlsYvQ3See1LYPF6SbA%3D%3D)
 - _How to win an hackathon_, [link here](https://www.linkedin.com/pulse/le-hackathon-la-comp%25C3%25A9tition-par-excellence-des-ing%25C3%25A9nieurs-saez/?trackingId=lpEMlsYvQ3See1LYPF6SbA%3D%3D)
 
+## Open source contributor
+- Creator and maintainer of [Badgetizr](https://github.com/aiKrice/homebrew-badgetizr)
+
 ## 🎧 Podcasts invited
 - Lilian Alvarez -> The crossNative methodology: How to design and implement on iOS and Android with Native code in the same way
 
@@ -42,6 +46,7 @@
 - Cocoaheads Nov 2018: AR CloudAnchors with Google: Possibility and limitations
 - Cocoaheads Jan 2020: The crossNative methodology: [How to design and implement on iOS and Android with Native code in the same way](https://fr.slideshare.net/ChristopherSaez2/is-it-possible-to-write-crossnative-apps-in-2020)
 - Cocoaheads Nov 2023: How to share githooks written in Swift
+- Cocoahead Nov 2024: Add badges to your pull request and enhance your productivity 🚀
 
 ## 🏆 Passionated awarded
 - 🥇 First prize [SGConnectedHack by Societé Générale](https://www.societegenerale.com/en/news/all-news/successful-sg-connected-hack): MySGConnect available [here](https://github.com/aiKrice/Hackathon-MySGConnect)

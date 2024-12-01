@@ -1,9 +1,12 @@
 <div id="header" align="center">
   <img src="banner.png" width="100"/>
 </div>
-<p align="center">
-    Android iOS Chris (aiKrice)
-</p>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Chris+Saez;Lead+Mobile+Developer+Android+iOS;Writer;Speaker;Open+source+contributor)](https://git.io/typing-svg)
+</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/saezchristopher/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -60,5 +63,16 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aiKrice&theme=gruvbox-duo&hide_border=true&card_width=830&fire=EB2222&ring=7B89EB)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiKrice&show_icons=true&theme=blue-green)
+
+
+## 🥇 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aiKrice&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
+## 📖 My quotes
+<div align="center" style="width: 600px;">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dark&quote=A+vaincre+sans+peril,+on+triomphe+sans+gloire.&author=Corneille)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>

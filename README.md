@@ -61,7 +61,8 @@
 ## 📊 My Stats
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aiKrice&theme=gruvbox-duo&hide_border=true&card_width=830&fire=EB2222&ring=7B89EB)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aiKrice&theme=gruvbox-duo&hide_border=true&card_width=830&fire=EB2222&ring=7B89EB"/></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiKrice&show_icons=true&theme=blue-green)
 
 

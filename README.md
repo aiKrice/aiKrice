@@ -23,6 +23,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
     <img src="bitrise-original.svg" title="Bitrise" alt="Bitrise" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="Github Actions" alt="Github Actions" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp;
     <img src="https://dbd6j53uzcole.cloudfront.net/assets/images/favicon/favicon96.5f660f6d0ec8b4d5522e.png" title="Bugsnag" alt="Bugsnag" width="40" height="40"/>&nbsp;
